@@ -1,5 +1,5 @@
 # Lab 20 – Interception de trafic Android avec Burp Suite
-**Cours : Cybersécurité Mobile – Analyse réseau** &nbsp;|&nbsp; **Date : Mai 2026**
+**Cours : Sécurité des Applications Mobiles ** &nbsp;|&nbsp; **Date : Mai 2026**
 
 ---
 
