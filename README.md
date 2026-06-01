@@ -138,4 +138,5 @@ La différence entre HTTP et HTTPS est rendue tangible : sans certificat CA de l
 
 **DOSSAH Landry**  
 ENSA Marrakech | GCDSTE S4  
-Module : Cybersécurité Mobile — Analyse réseau
+Module : Sécurité des Applications Mobiles
+
