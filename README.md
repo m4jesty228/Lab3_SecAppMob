@@ -1,4 +1,4 @@
-# Lab 20 – Interception de trafic Android avec Burp Suite
+# Lab 3 – Interception de trafic Android avec Burp Suite
 **Cours : Sécurité des Applications Mobiles ** &nbsp;|&nbsp; **Date : Mai 2026**
 
 ---
